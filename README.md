@@ -1,7 +1,7 @@
 ## Hi 👋, I'm [RedBoxing](https://redboxing.fr)
 
 - 🖥️ I'm a 16 years old french developer 
-- 🔭 I’m currently working on **PronoteBot**
+- 🔭 I’m currently working on **WakfuSniffer** and **WakfuServer**
 
 ## 🌍 Languages:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
