@@ -39,3 +39,6 @@
 ![RedBoxing's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedBoxing&count_private=true&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedBoxing&layout=compact&theme=tokyonight)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
