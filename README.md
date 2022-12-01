@@ -41,4 +41,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedBoxing&layout=compact&theme=tokyonight)
 
 <!--START_SECTION:waka-->
+
+```text
+Total Time: 4 hrs 58 mins
+
+C++        2 hrs 18 mins   ███████████▓░░░░░░░░░░░░░   46.49 %
+Other      1 hr 38 mins    ████████▒░░░░░░░░░░░░░░░░   33.03 %
+```
+
 <!--END_SECTION:waka-->
