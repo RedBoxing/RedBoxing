@@ -43,10 +43,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 11 hrs 28 mins
+Total Time: 8 hrs 16 mins
 
-C++        6 hrs 21 mins   ██████████████░░░░░░░░░░░   55.39 %
-Other      2 hrs 48 mins   ██████░░░░░░░░░░░░░░░░░░░   24.39 %
+C++          4 hrs 2 mins    ████████████▒░░░░░░░░░░░░   48.89 %
+PowerShell   1 hr 44 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
+Other        1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
 ```
 
 <!--END_SECTION:waka-->
