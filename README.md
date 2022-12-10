@@ -43,11 +43,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 8 hrs 16 mins
+Total Time: 6 hrs 28 mins
 
-C++          4 hrs 2 mins    ████████████▒░░░░░░░░░░░░   48.89 %
-PowerShell   1 hr 44 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.03 %
-Other        1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
+C++          3 hrs 27 mins   █████████████▒░░░░░░░░░░░   53.53 %
+PowerShell   1 hr 44 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.87 %
+Makefile     49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+C            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+INI          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
