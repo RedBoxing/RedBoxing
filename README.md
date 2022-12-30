@@ -43,14 +43,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 hrs 17 mins
+Total Time: 3 hrs 15 mins
 
-YAML         1 hr 37 mins    █████████████████▓░░░░░░░   71.06 %
-Docker       14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
-Properties   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-Bash         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-TOML         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+YAML         2 hrs 11 mins   █████████████████░░░░░░░░   67.56 %
+Other        22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 %
 ```
 
 <!--END_SECTION:waka-->
