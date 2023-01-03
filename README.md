@@ -43,10 +43,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 4 hrs 52 mins
+Total Time: 13 hrs 14 mins
 
-YAML         3 hrs 19 mins   █████████████████░░░░░░░░   68.10 %
-Other        48 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+Rust         7 hrs 55 mins   ███████████████░░░░░░░░░░   59.78 %
+YAML         3 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.05 %
+Other        54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
 ```
 
 <!--END_SECTION:waka-->
