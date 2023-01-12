@@ -43,13 +43,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 6 hrs 54 mins
+Total Time: 7 hrs 4 mins
 
-Python   4 hrs 53 mins   █████████████████▓░░░░░░░   70.66 %
-Rust     1 hr 7 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
-JSON     43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-Text     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python       6 hrs 8 mins    █████████████████████▓░░░   86.85 %
+JSON         43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+Text         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
