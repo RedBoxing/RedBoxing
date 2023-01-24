@@ -43,11 +43,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 hr 22 mins
+Total Time: 7 hrs 15 mins
 
-C#           35 mins         ██████████▓░░░░░░░░░░░░░░   43.33 %
-Python       17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.35 %
-Other        11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.01 %
+Python       6 hrs 13 mins   █████████████████████▒░░░   85.81 %
+PHP          39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+TypeScript   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+PowerShell   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
