@@ -1,7 +1,29 @@
-## Hi 👋, I'm [RedBoxing](https://redboxing.fr)
+![](banner1.png)
 
-- 🖥️ I'm a 17 years old french developer 
-- 🔭 I’m currently learning **Rust**
+<img align="right" width="40%" src="./waifu1.png">
+<br>
+<br>
+<br>
+<br>
+
+- 👨‍💻I'm [***RedBoxing***](https://redboxing.fr)
+  
+- 🖥️ I'm a 17 years old french developer since 2017
+
+- ❤️ Love anime, programming, hacking, video games, and AI
+
+- 🎓 Currently studying in high school
+  
+- 🔭 I’m currently working on **Nothing**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<img align="left" width="40%" src="./waifu2.png" style="padding-right: 30px">
 
 ## 🌍 Languages:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -13,16 +35,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## 🌐 Databases
-![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![HIBERNATE](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![PRISMA](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![SEQUELIZE](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-
-## 📦 Frameworks
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+<br>
 
 ## 💻 Software:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -34,11 +47,17 @@
 ![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## 📈 Stats
+<br />
 
-![RedBoxing's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedBoxing&count_private=true&show_icons=true&theme=tokyonight)
+![](banner2.png)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedBoxing&layout=compact&theme=tokyonight)
+<div style="display: flex; justify-content: center;"> 
+
+<img width="400px" style="margin:10px;" src="https://github-readme-stats.vercel.app/api?username=RedBoxing&count_private=true&show_icons=true&theme=tokyonight">
+
+<img style="margin:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedBoxing&layout=compact&theme=tokyonight">
+
+</div>
 
 <!--START_SECTION:waka-->
 
