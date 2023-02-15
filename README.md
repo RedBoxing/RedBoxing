@@ -60,10 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 46 hrs 7 mins
+Total Time: 45 hrs 10 mins
 
-C++          42 hrs 30 mins  ███████████████████████░░   92.16 %
-Other        1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+C++          42 hrs 20 mins  ███████████████████████▒░   93.72 %
+Makefile     1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+C            52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Other        42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
