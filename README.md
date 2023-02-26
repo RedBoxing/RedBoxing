@@ -60,13 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 43 hrs 42 mins
+Total Time: 38 hrs 46 mins
 
-C++           35 hrs 9 mins   ████████████████████░░░░░   80.41 %
-Python        2 hrs 34 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
-C             1 hr 26 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Makefile      1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Other         1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+C++           32 hrs 11 mins  ████████████████████▓░░░░   83.01 %
+Python        2 hrs 33 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+Other         1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 ```
 
 <!--END_SECTION:waka-->
