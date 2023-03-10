@@ -60,10 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 44 mins
+Total Time: 1 hr 16 mins
 
-YAML        26 mins         ██████████████▓░░░░░░░░░░   58.06 %
-Other       10 mins         ██████░░░░░░░░░░░░░░░░░░░   23.96 %
+YAML        26 mins         ████████▓░░░░░░░░░░░░░░░░   34.20 %
+Python      20 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.18 %
+JSON        11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
+Other       10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
 ```
 
 <!--END_SECTION:waka-->
