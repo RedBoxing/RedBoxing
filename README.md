@@ -60,12 +60,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 10 mins
+Total Time: 6 mins
 
-Bash     6 mins          ███████████████░░░░░░░░░░   59.90 %
-Lua      2 mins          ██████░░░░░░░░░░░░░░░░░░░   24.09 %
-INI      0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
-Python   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+Bash     6 mins          ██████████████████████▓░░   90.33 %
+Python   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
 ```
 
 <!--END_SECTION:waka-->
