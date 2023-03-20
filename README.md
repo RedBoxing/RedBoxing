@@ -60,10 +60,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 6 mins
+Total Time: 0 secs
 
-Bash     6 mins          ██████████████████████▓░░   90.33 %
-Python   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
