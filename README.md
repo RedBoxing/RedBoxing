@@ -60,9 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 33 mins
+Total Time: 41 mins
 
-Text   33 mins         █████████████████████████   100.00 %
+Text   33 mins         ████████████████████░░░░░   80.17 %
+TOML   7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
+JSON   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
 ```
 
 <!--END_SECTION:waka-->
