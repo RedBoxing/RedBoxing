@@ -60,10 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 8 mins
+Total Time: 3 hrs 10 mins
 
-TOML   7 mins          ██████████████████████▒░░   88.69 %
-JSON   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
+Python     2 hrs 58 mins   ███████████████████████▒░   93.45 %
+TOML       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Bash       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
