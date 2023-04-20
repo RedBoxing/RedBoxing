@@ -62,8 +62,7 @@
 ```text
 Total Time: 0 secs
 
-JSON   0 secs          ██████████████▒░░░░░░░░░░   57.44 %
-C++    0 secs          ██████████▓░░░░░░░░░░░░░░   42.56 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
