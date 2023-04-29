@@ -60,12 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 54 mins
+Total Time: 3 hrs 19 mins
 
-Svelte       44 mins         ████████████████████▒░░░░   81.46 %
-Python       8 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Python       2 hrs 14 mins   ████████████████▓░░░░░░░░   67.31 %
+Svelte       44 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.12 %
+JSON         18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
