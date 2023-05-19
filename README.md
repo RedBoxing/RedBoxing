@@ -60,11 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 13 mins
+Total Time: 1 hr 9 mins
 
-YAML     6 mins          ████████████▓░░░░░░░░░░░░   50.44 %
-JSON     5 mins          ███████████░░░░░░░░░░░░░░   44.17 %
-Python   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+JSON     1 hr 7 mins     ████████████████████████▒   97.45 %
+Rust     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Python   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
