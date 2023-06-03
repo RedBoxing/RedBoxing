@@ -59,14 +59,14 @@
 
 <!--START_SECTION:waka-->
 
-```text
-Total Time: 5 hrs 17 mins
+```txt
+Total Time: 7 hrs 43 mins
 
-TypeScript   2 hrs           █████████▒░░░░░░░░░░░░░░░   37.86 %
-Rust         1 hr 28 mins    ███████░░░░░░░░░░░░░░░░░░   27.95 %
-JSON         37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
-JavaScript   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-Bash         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+TypeScript     3 hrs 49 mins   ████████████▒░░░░░░░░░░░░   49.52 %
+Rust           1 hr 28 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
+JSON           50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
+JavaScript     17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Bash           17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 <!--END_SECTION:waka-->
