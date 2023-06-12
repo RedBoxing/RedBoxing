@@ -14,7 +14,7 @@
 
 - 🎓 Currently studying in high school
   
-- 🔭 I’m currently working on **Starlight / Moonlight**
+- 🔭 I’m currently working on **Yume Hikari*
 
 <br/>
 <br/>
