@@ -60,11 +60,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 31 mins
+Total Time: 0 secs
 
-Python   30 mins         ████████████████████████▓   98.65 %
-JSON     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+YAML   0 secs          ███████████████████░░░░░░   76.31 %
+JSON   0 secs          ██████░░░░░░░░░░░░░░░░░░░   23.69 %
 ```
 
 <!--END_SECTION:waka-->
