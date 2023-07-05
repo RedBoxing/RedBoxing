@@ -60,10 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 1 hr 30 mins
 
-YAML   0 secs          ███████████████████░░░░░░   76.31 %
-JSON   0 secs          ██████░░░░░░░░░░░░░░░░░░░   23.69 %
+TypeScript   1 hr 23 mins    ███████████████████████▒░   92.98 %
+TOML         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
