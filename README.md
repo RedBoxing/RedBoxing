@@ -60,13 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 13 mins
+Total Time: 5 hrs 49 mins
 
-Rust         6 hrs 8 mins    █████████████████████▒░░░   85.13 %
-JavaScript   58 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
-TOML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-PowerShell   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-C++          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Rust         3 hrs 34 mins   ███████████████▒░░░░░░░░░   61.38 %
+Python       1 hr 15 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.71 %
+JavaScript   58 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.85 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
