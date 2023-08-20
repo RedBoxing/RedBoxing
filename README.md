@@ -60,13 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 hrs 9 mins
+Total Time: 15 hrs 58 mins
 
-Rust             7 hrs 56 mins   ███████████▓░░░░░░░░░░░░░   46.28 %
-YAML             4 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   24.60 %
-JavaScript       1 hr 33 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
-Other            1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-Bash             44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Rust             7 hrs 56 mins   ████████████▒░░░░░░░░░░░░   49.67 %
+YAML             2 hrs 48 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.59 %
+JavaScript       1 hr 54 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+Other            1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+Bash             44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
 ```
 
 <!--END_SECTION:waka-->
