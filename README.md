@@ -60,10 +60,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 56 mins
+Total Time: 54 mins
 
-Rust   37 mins         █████████████████░░░░░░░░   67.45 %
-JSON   18 mins         ████████░░░░░░░░░░░░░░░░░   32.55 %
+Rust   36 mins         ████████████████▓░░░░░░░░   66.43 %
+JSON   18 mins         ████████▒░░░░░░░░░░░░░░░░   33.57 %
 ```
 
 <!--END_SECTION:waka-->
