@@ -60,10 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 50 mins
+Total Time: 1 hr 57 mins
 
-Lua    49 mins         ████████████████████████▒   97.95 %
-JSON   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Lua     1 hr 55 mins    ████████████████████████▓   98.30 %
+JSON    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
