@@ -60,12 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 18 mins
+Total Time: 1 hr 17 mins
 
-Lua     1 hr 13 mins    ███████████████████████▓░   94.40 %
-Rust    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-JSON    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Lua     1 hr 13 mins    ███████████████████████▓░   95.29 %
+Rust    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
