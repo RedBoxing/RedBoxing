@@ -60,13 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 33 hrs 34 mins
+Total Time: 29 hrs 15 mins
 
-C++              16 hrs 48 mins  ████████████▓░░░░░░░░░░░░   50.05 %
-Assembly         4 hrs 42 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-Rust             3 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-C                2 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-Other            1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+C++              15 hrs 58 mins  █████████████▓░░░░░░░░░░░   54.57 %
+Assembly         5 hrs 8 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
+Other            2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+C                2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Makefile         1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
 ```
 
 <!--END_SECTION:waka-->
