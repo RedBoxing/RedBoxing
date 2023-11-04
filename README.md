@@ -60,13 +60,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 hrs 51 mins
+Total Time: 14 hrs 20 mins
 
-C++           11 hrs 59 mins  ███████████████░░░░░░░░░░   60.38 %
-Assembly      4 hrs 13 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
-Other         2 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
-Objective-C   46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Makefile      20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+C++           8 hrs 17 mins   ██████████████▒░░░░░░░░░░   57.79 %
+Assembly      3 hrs 35 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.98 %
+Other         1 hr 48 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
+Objective-C   26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+JSON          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
