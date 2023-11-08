@@ -60,12 +60,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 6 mins
+Total Time: 41 mins
 
-C++           1 hr 42 mins    ████████████████████▒░░░░   80.72 %
-Other         12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
-Assembly      11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Objective-C   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+C++           31 mins         ███████████████████░░░░░░   75.38 %
+Assembly      6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
+Other         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+Objective-C   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 ```
 
 <!--END_SECTION:waka-->
