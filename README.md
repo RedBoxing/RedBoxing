@@ -12,9 +12,9 @@
 
 - ❤️ Love anime, programming, hacking, video games, and AI
 
-- 🎓 Currently studying in high school
+- 🎓 Currently studying in university
   
-- 🔭 I’m currently working on **Yume Hikari**
+- 🔭 I’m currently working on **オシリス**
 
 <br/>
 <br/>
@@ -26,8 +26,9 @@
 <img align="left" width="40%" src="./waifu2.png" style="padding-right: 30px">
 
 ## 🌍 Languages:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
