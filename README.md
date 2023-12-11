@@ -62,9 +62,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 18 mins
+Total Time: 1 hr 1 min
 
-C#   1 hr 18 mins    █████████████████████████   100.00 %
+C#      43 mins         ██████████████████░░░░░░░   71.35 %
+XML     12 mins         █████░░░░░░░░░░░░░░░░░░░░   20.64 %
+Other   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+XAML    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
 ```
 
 <!--END_SECTION:waka-->
