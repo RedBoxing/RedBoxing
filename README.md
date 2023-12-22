@@ -62,11 +62,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 mins
+Total Time: 1 min
 
-CSS    4 mins          ████████████████▒░░░░░░░░   65.92 %
-C#     1 min           ███████▓░░░░░░░░░░░░░░░░░   30.34 %
-HTML   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+C#   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
