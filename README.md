@@ -8,13 +8,13 @@
 
 - 👨‍💻I'm [***RedBoxing***](https://redboxing.fr)
   
-- 🖥️ I'm a 17 years old french developer since 2017
+- 🖥️ I'm a 18 years old french developer since 2017
 
 - ❤️ Love anime, programming, hacking, video games, and AI
 
 - 🎓 Currently studying in university
   
-- 🔭 I’m currently working on **オシリス**
+- 🔭 I’m currently working on **Nothing**
 
 <br/>
 <br/>
