@@ -12,6 +12,8 @@
 
 - ❤️ Love anime, programming, hacking, video games, and AI
 
+- 😡 I hate Microsoft, C#, Windows, Proprietary softwares
+
 - 🎓 Currently studying in university
   
 - 🔭 I’m currently working on **Nothing**
