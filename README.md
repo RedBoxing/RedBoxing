@@ -64,10 +64,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 mins
+Total Time: 1 hr 42 mins
 
-Other             1 min           ██████████████████████▓░░   91.28 %
-Java Properties   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+JavaScript        1 hr 40 mins    ████████████████████████▓   98.03 %
+Other             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
