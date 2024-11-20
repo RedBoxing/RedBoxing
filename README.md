@@ -1,1 +1,1 @@
-# Migrated to a selfhosted [Forgejo](https://git.redboxing.fr/RedBoxing)
+# Migrated to a selfhosted [Forgejo](https://git.autisticpeoples.party/RedBoxing)
